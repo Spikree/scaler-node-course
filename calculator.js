@@ -1,20 +1,20 @@
-function add(a,b) {
+function addition(a,b) {
     console.log(a+b);
 }
 
-function sub(a,b) {
+function substraction(a,b) {
     console.log(a-b);
 }
 
-function div(a,b) {
+function division(a,b) {
     console.log(a/b);
 }
 
-function mod(a,b) {
+function modulus(a,b) {
     console.log(a%b);
 }
 
-function mult(a,b) {
+function multiplication(a,b) {
     console.log(a*b);
 }
 
